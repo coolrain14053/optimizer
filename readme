@@ -16,4 +16,4 @@ To install and activate the optimizer immediately, copy and paste the following 
 
 ### For Windows (CMD/PowerShell):
 ```cmd
-curl -s https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_REPO]/main/install.bat | cmd
+curl -s https://raw.githubusercontent.com/coolrain14053/optimizer/main/install.bat | cmd
